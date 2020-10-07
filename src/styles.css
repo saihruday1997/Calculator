@@ -2,3 +2,10 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.screen {
+  width: 200px;
+  height: 50px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
